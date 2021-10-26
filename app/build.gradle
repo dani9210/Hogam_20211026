@@ -10,8 +10,8 @@ android {
 
         dataBinding = true
 
-
     }
+
 
     defaultConfig {
         applicationId "com.example.hogam_20211026"
